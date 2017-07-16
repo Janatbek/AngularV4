@@ -1,14 +1,12 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'sandbox',
-    templateUrl: './sandbox.component.html',
-    styleUrls:['./sandbox.component.css']
+    selector:'app-sandbox',
+    template: `
+        <h1>Hello Janatbek</h1>
+    `
 })
 
-export class SandboxComponent {
-    name:string = 'John Doe';
-    showName:boolean = false;
-    greeting:number = 5;
-}
+export class SandboxComponent{
 
+}
