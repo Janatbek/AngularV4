@@ -16,7 +16,7 @@ import { Title } from '@angular/platform-browser'
 })
 
 export class SandboxComponent{
-    title:string = 'Master Branch';
+    title:string = 'Mouse Events';
     fireEvent(e){
         // console.log('Button Clicked');
         // console.log(greeting);
