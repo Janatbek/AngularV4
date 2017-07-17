@@ -16,6 +16,6 @@ style-binding-and-ngStyle
 
 Feel free to git clone any of above branches modify, add or suggest any new codes that can help me.
 
-## Development server
+### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
