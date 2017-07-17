@@ -6,11 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Branches:
 
-Keyboard-and-InputEvents 
-Changing-Properties-With-Events
-mouse-events 
-using-pipes
-style-binding-and-ngStyle
+Keyboard-and-InputEvents  
+Changing-Properties-With-Events  
+mouse-events  
+using-pipes  
+style-binding-and-ngStyle  
 
 ## Collaborators
 
